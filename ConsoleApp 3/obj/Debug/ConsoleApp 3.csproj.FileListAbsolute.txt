@@ -1,0 +1,7 @@
+D:\编程\C#\ConsoleApp 3\bin\Debug\ConsoleApp 3.exe.config
+D:\编程\C#\ConsoleApp 3\bin\Debug\ConsoleApp 3.exe
+D:\编程\C#\ConsoleApp 3\bin\Debug\ConsoleApp 3.pdb
+D:\编程\C#\ConsoleApp 3\obj\Debug\ConsoleApp 3.csproj.AssemblyReference.cache
+D:\编程\C#\ConsoleApp 3\obj\Debug\ConsoleApp 3.csproj.CoreCompileInputs.cache
+D:\编程\C#\ConsoleApp 3\obj\Debug\ConsoleApp 3.exe
+D:\编程\C#\ConsoleApp 3\obj\Debug\ConsoleApp 3.pdb
